@@ -1,3 +1,7 @@
 .div1{
     border:1px solid black;
+    padding-left: 10px;
+}
+.div2,.div3{
+    padding-left: 10px;
 }
